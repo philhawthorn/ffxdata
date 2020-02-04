@@ -134,5 +134,5 @@ Name,Reporting Code,CurrencyIsoCode,Type,Allow Revaluation,Balance Sheet 1,Cash 
 8999 - Eliminations,8999,USD,Profit and Loss,FALSE,,,,FALSE,Profit and Loss,EBITDA,Other Income and Expenses,
 9000 - Clearing,9000,USD,Balance Sheet,FALSE,,Investing Activities,,FALSE,Balance Sheet,Intangible Assets,Intangible Assets,
 9999 - Corporate Suspense,9999,USD,Profit and Loss,FALSE,,,,FALSE,Profit and Loss,EBITDA,Other Income and Expenses,
-9999 - Corporate Suspense - GBP,9999GBP,GBP,Profit and Loss,FALSE,,,,FALSE,Profit and Loss,EBITDA,Other Income and Expenses,
-9999 - Corporate Suspense - AUD,9999AUD,AUD,Profit and Loss,FALSE,,,,FALSE,Profit and Loss,EBITDA,Other Income and Expenses,
+9999 - Corporate Suspense - GBP,9999-GBP,GBP,Profit and Loss,FALSE,,,,FALSE,Profit and Loss,EBITDA,Other Income and Expenses,
+9999 - Corporate Suspense - AUD,9999-AUD,AUD,Profit and Loss,FALSE,,,,FALSE,Profit and Loss,EBITDA,Other Income and Expenses,
