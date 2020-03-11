@@ -1,5 +1,5 @@
 Name,Reporting Code,CurrencyIsoCode,Type,Allow Revaluation,Balance Sheet 1,Cash Flow Category,GLA Group,Reclassify Profits,Trial Balance 1,Trial Balance 2,Trial Balance 3,Trial Balance 4
-1010 - Cash in bank- CAD,1010,USD,Balance Sheet,TRUE,,,Cash,FALSE,Balance Sheet,Current Assets,Bank and Cash,
+1010a - Cash in bank- CAD,1010,USD,Balance Sheet,TRUE,,,Cash,FALSE,Balance Sheet,Current Assets,Bank and Cash,
 1020 - Cash in bank- USD,1020,USD,Balance Sheet,FALSE,,,Cash,FALSE,Balance Sheet,Current Assets,Bank and Cash,
 1025 - Cash in bank- GBP,1025,USD,Balance Sheet,TRUE,,,Cash,FALSE,Balance Sheet,Current Assets,Bank and Cash,
 1027 - Cash in bank- AUD,1027,USD,Balance Sheet,TRUE,,,Cash,FALSE,Balance Sheet,Current Assets,Bank and Cash,
